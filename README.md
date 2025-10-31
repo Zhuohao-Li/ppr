@@ -1,11 +1,12 @@
 # PPR: Hybrid Reward Normalization for Process-supervised Non-verifiable Agentic Tasks
 
-<p align="center">
-  <a href="https://www.arxiv.org/abs/2509.25598">Paper</a> ｜ 
-  <a href="https://huggingface.co/collections/peiranxu/ppr-collection-68daccbbca88f5ace244ae7f">Model</a>
-</p>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://www.arxiv.org/abs/2509.25598)
+[![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/peiranxu/ppr)
+[![Model](https://img.shields.io/badge/Model-HuggingFace-green)](https://huggingface.co/collections/peiranxu/ppr-collection-68daccbbca88f5ace244ae7f)
+[![Project](https://img.shields.io/badge/Project-Website-orange)](https://zhuohao-li.github.io/ppr)
+<!-- [![Poster(COLM)](https://img.shields.io/badge/Poster-PDF-orange)](/assets/poster.pdf) -->
 
-## Overview
+## 📖 Overview
 <p align="center">
   <img src="assets/overview.png" alt="Overview of PPR" width="800">
 </p>
